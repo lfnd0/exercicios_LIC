@@ -1,0 +1,7 @@
+valor = float(input("Digite o valor do boleto: "))
+multa = float(input("Digite o valor da multa por atraso: "))
+dias = float(input("Digite a quantidade de dias de atraso: "))
+multa = float(input("Digite o valor da multa por atraso: "))
+juros = float(input("Digite o valor dos juros: "))
+total = valor+multa+(valor*juros*dias)
+print("O total a ser pago é de:",total,"R$! Tomou distraído!")
