@@ -1,1 +1,1 @@
-Códigos das atividades referentes à disciplina Lógica, Informática e Comunicação.
+Códigos das atividades referente à disciplina Lógica, Informática e Comunicação.
