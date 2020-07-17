@@ -1,3 +1,3 @@
-# Códigos das atividades referente à disciplina Lógica, Informática e Comunicação.
+# Lógica, Informática e Comunicação - LIC
 
-> Linguagem de programação: Python
+  - Linguagem de programação: Python
